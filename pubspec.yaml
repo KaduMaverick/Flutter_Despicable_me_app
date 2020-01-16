@@ -14,7 +14,7 @@ description: A new Flutter project.
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.2.2 <3.0.0"
 
 dependencies:
   flutter:
@@ -63,14 +63,14 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: WorkSans
+    - family: FuturaDisplay
       fonts:
-        - asset: assets/fonts/WorkSans-Regular.ttf
+        - asset: assets/fonts/Futura-Display-BQ-Regular.otf
         - asset: assets/fonts/WorkSans-Medium.ttf
           weight: 500
-        - asset: assets/fonts/WorkSans-SemiBold.ttf
+        - asset: assets/fonts/Futura-Display-BQ-Regular.otf
           weight: 600
-        - asset: assets/fonts/WorkSans-Bold.ttf
+        - asset: assets/fonts/Futura-Display-BQ-Regular.otf
           weight: 700
   #
   # For details regarding fonts from package dependencies,

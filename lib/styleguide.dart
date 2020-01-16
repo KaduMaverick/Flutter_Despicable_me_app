@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class AppTheme {
 
   static const TextStyle display1 = TextStyle(
-    fontFamily: 'WorkSans',
+    fontFamily: 'FuturaDisplay',
     color: Colors.black,
     fontSize: 38,
     fontWeight: FontWeight.w600,
@@ -11,7 +11,7 @@ class AppTheme {
   );
 
   static const TextStyle display2 = TextStyle(
-    fontFamily: 'WorkSans',
+    fontFamily: 'FuturaDisplay',
     color: Colors.black,
     fontSize: 32,
     fontWeight: FontWeight.normal,
@@ -19,7 +19,7 @@ class AppTheme {
   );
 
   static final TextStyle heading = TextStyle(
-    fontFamily: 'WorkSans',
+    fontFamily: 'FuturaDisplay',
     fontWeight: FontWeight.w900,
     fontSize: 34,
     color: Colors.white.withOpacity(0.8),
@@ -28,7 +28,7 @@ class AppTheme {
 
   static final TextStyle subHeading = TextStyle(
     inherit: true,
-    fontFamily: 'WorkSans',
+    fontFamily: 'FuturaDisplay',
     fontWeight: FontWeight.w500,
     fontSize: 24,
     color: Colors.white.withOpacity(0.8),
